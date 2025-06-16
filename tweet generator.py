@@ -300,7 +300,7 @@ def main():
     """Main function to run the news tweet generator"""
     
     # Configuration - UPDATE THESE VALUES
-    GEMINI_API_KEY = "AIzaSyCnLIQuXnlERfJTHJyjfwF0Cw4b3h-V0i4"  # Replace with your actual Gemini API key
+    GEMINI_API_KEY = "Replace with your actual Gemini API key"  # Replace with your actual Gemini API key
     JSON_FILE_PATH = r"C:\Users\abhay\OneDrive\Desktop\Twitter_bot\bbc_improved_data.json"  # Path to your JSON file
     OLLAMA_URL = "http://localhost:11434"  # Ollama server URL
     MAX_ARTICLES = 100  # Number of articles to process
