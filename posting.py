@@ -426,8 +426,8 @@ def main():
     """Main function to run the Twitter bot"""
     
     # Configuration - UPDATE THESE VALUES
-    TWITTER_USERNAME = "@monarch_royale"  # Your Twitter username or email
-    TWITTER_PASSWORD = "abhayemani2502"          # Your Twitter password
+    TWITTER_USERNAME = "Your Twitter username or email"  # Your Twitter username or email
+    TWITTER_PASSWORD = "Your Twitter password"          # Your Twitter password
     JSON_FILE_PATH = r"C:\Users\abhay\OneDrive\Desktop\Twitter_bot\generated_tweets.json"            # Path to your tweets JSON file
     POST_INTERVAL = 10                                  # Seconds between tweets
     MAX_TWEETS = None                                   # Maximum tweets to post (None = all)
